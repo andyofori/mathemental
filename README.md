@@ -1,8 +1,8 @@
-# Mental Math Pro
+# Mathemental
 A mental math program
 
 ## Website
-https://andyofori.github.io/mentalmath.pro/
+https://andyofori.github.io/mathemental/
 
 ## Description
 Have this program act as your school math teacher. 
