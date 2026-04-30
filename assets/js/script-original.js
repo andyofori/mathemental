@@ -252,9 +252,9 @@ let controller = {
         switch (selectedDifficulty) {
             case "easy":    this.setTimerAndOperands(selectedDifficulty, 3);
                             break;
-            case "normal":  this.setTimerAndOperands(selectedDifficulty, 5);
+            case "normal":  this.setTimerAndOperands(selectedDifficulty, 7);
                             break;
-            case "hard":    this.setTimerAndOperands(selectedDifficulty, 7);
+            case "hard":    this.setTimerAndOperands(selectedDifficulty, 10);
                             break;
             }
     },
